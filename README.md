@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Week 3: Git, GitHub and Terminal Practice
 
 ## Author
@@ -67,4 +66,3 @@ Not applicable. This week's assignments focused mainly on Git, GitHub and termin
 =======
 # My portifolio website
 This project is my week 3 portifolio built with HTML and CSS, managed under Git version control.
->>>>>>> 1f2a1f9 (docs: add project README)
