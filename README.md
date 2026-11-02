@@ -63,6 +63,5 @@ Add screenshots of your completed assignments here.
 
 ## Live Demo
 Not applicable. This week's assignments focused mainly on Git, GitHub and terminal practice.
-=======
 # My portifolio website
 This project is my week 3 portifolio built with HTML and CSS, managed under Git version control.
