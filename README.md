@@ -50,13 +50,13 @@ This week's assignment focused on learning Git, GitHub and terminal commands. I 
 - Understanding Git commands and GitHub workflows.
 
 I overcame these challenges through practice and following step-by-step instructions.
-
+ 
 ## Collaboration
-- **Team / partner:** Add partner's GitHub username.
-- **Shared repo:** Add shared repository link.
-- **PR I opened:** Add your pull request link.
-- **PR I reviewed:** Add the pull request you reviewed.
-- **Merge conflict I resolved:** Add your pull request link.
+- **Partner:** [@gracesaigilu](https://github.com/gracesaigilu)
+- **Shared Repo:** [iyf-s12-week-03--pair-gracesaigilu](https://github.com/gracesaigilu/iyf-s12-week-03--pair-gracesaigilu)
+- **PR I opened:** [feat: add Rahab's profile section #3](https://github.com/gracesaigilu/iyf-s12-week-03--pair-gracesaigilu/pull/3)
+- **PR I Reviewed:** [Link to the PR opened by Grace that you reviewed and commented on]
+- **Merge-Conflict I resolved:** [Link to the PR where you resolved the merge conflict]
 
 ## Screenshots (optional)
 Add screenshots of your completed assignments here.
