@@ -55,9 +55,10 @@ I overcame these challenges through practice and following step-by-step instruct
 - **Partner:** [@gracesaigilu](https://github.com/gracesaigilu)
 - **Shared Repo:** [iyf-s12-week-03--pair-gracesaigilu](https://github.com/gracesaigilu/iyf-s12-week-03--pair-gracesaigilu)
 - **PR I opened:** [feat: add Rahab's profile section #3](https://github.com/gracesaigilu/iyf-s12-week-03--pair-gracesaigilu/pull/3)
-- **PR I Reviewed:** [Link to the PR opened by Grace that you reviewed and commented on]
-- **Merge-Conflict I resolved:** [Link to the PR where you resolved the merge conflict]
-
+- **PR I Reviewed:** [she didn't open PR]
+  
+- **Merge-Conflict I resolved:** [Local conflict branch #5](https://github.com/gracesaigilu/iyf-s12-week-03--pair-gracesaigilu/pull/5)
+  
 ## Screenshots (optional)
 Add screenshots of your completed assignments here.
 
